@@ -1,8 +1,3 @@
-'''
- Diego Piccinotti (Matricola: 264763)
- Francesco Saccani (Matricola: 265559)
-'''
-
 import pygame
 from arena import *
 from pacman import *
