@@ -3,6 +3,7 @@ This is my personal version of Vax-man game using python, which is the first ass
 
 ![20220104165633](https://user-images.githubusercontent.com/47311671/148129115-8b7192dd-ee25-46a0-8ead-7c91642c4ec5.png)
 
+![Vax-man](https://user-images.githubusercontent.com/47311671/148130397-2fc8d8a6-c4d0-4733-95b1-5995d314825b.gif)
 
 Pac-Man is one of the world's oldest computer games. In this task, we are going to pay tribute to Pac-Man. 
 
