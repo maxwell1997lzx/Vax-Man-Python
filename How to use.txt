@@ -1,0 +1,4 @@
+1. unzip and cd to game folder in terminal
+2. run `python3 -m pip install pygame` to install pygame dependance
+3. run `python3 pacman_game.py` to play
+4. use arrow key to move and Esc to quit
