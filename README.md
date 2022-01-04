@@ -1,6 +1,9 @@
 # Vac-Man
 This is my personal version of Vax-man game using python, which is the first assignment of EA Software Engineering Virtual Experience Program from Forage.com.
 
+![20220104165633](https://user-images.githubusercontent.com/47311671/148129115-8b7192dd-ee25-46a0-8ead-7c91642c4ec5.png)
+
+
 Pac-Man is one of the world's oldest computer games. In this task, we are going to pay tribute to Pac-Man. 
 
 We are building a new game called Vax-Man. The rules are similar to Pac-Man with several notable exceptions:<br>
