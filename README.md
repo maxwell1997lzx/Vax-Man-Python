@@ -1,5 +1,5 @@
 # Vac-Man in Python
-This is my personal version of Vax-man game using python, which is the first assignment of EA Software Engineering Virtual Experience Program from Forage.com.
+This is my personal version of Vax-man game using python, which is the first task of EA Software Engineering Virtual Experience Program from Forage.com.
 
 ![Vax-man](https://user-images.githubusercontent.com/47311671/148130533-324ccdcd-f9a9-410e-8e35-26abe32c14eb.gif)
 
